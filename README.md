@@ -8,5 +8,5 @@ List of completed projects:
 * PINN Airy Project — The project is dedicated to solving the Airy differential equation using neural networks.
 * Telco Churn Prediction — A study of the dataset of the churn of customers of a telecommunications company, including 
 detailed exploratory data analysis, machine learning and the creation of a model to predict churn.
-* Walmart Sales Forecasting — A study of a set of data on sales at Walmart stores over several years, including both 
+* Walmart Sales Forecasting — A study of the dataset of sales at Walmart stores over several years, including both 
 direct and indirect factors. The notebook contains a exploratory analysis, the use of machine learning methods and time series theory to predict future sales figures.
