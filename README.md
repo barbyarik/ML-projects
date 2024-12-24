@@ -5,7 +5,7 @@ Have fun exploring! :eyes:
 
 List of completed projects:
 
-* PINN Airy Project — The project is dedicated to solving the Airy differential equation using neural networks.
+* Airy solution PINN project — The project is dedicated to solving the Airy differential equation using neural networks.
 * Telco Churn Prediction — A study of the dataset of the churn of customers of a telecommunications company, including 
 detailed exploratory data analysis, machine learning and the creation of a model to predict churn.
 * Walmart Sales Forecasting — A study of the dataset of sales at Walmart stores over several years, including both 
