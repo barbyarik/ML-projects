@@ -5,5 +5,5 @@
 * наивный подход (на базе словаря настроений);
 * библиотека NLTK;
 * библиотека TextBlob;
-* модель BERTA от HuggingFace;
+* модель Roberta от HuggingFace;
 * модель BERTA от HuggingFace (с дообучением).
