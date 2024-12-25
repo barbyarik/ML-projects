@@ -11,4 +11,4 @@ detailed exploratory data analysis, machine learning and the creation of a model
 * Walmart Sales Forecasting — A study of the dataset of sales at Walmart stores over several years, including both 
 direct and indirect factors. The notebook contains a exploratory analysis, the use of machine learning methods and time series theory to predict future sales figures.
 * Sentiment analysis — There is more than one way to explore the sentiment of a message. This project presents five different methods to accomplish this task. It 
-includes the use of the NLTK library, Text Blob, as well as HuggingFace BERT and Roberta models.
+includes the use of the NLTK library, Text Blob, as well as HuggingFace BERT and RoBERTa models.
