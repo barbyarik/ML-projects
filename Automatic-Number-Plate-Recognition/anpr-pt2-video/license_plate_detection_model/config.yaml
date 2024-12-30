@@ -1,0 +1,7 @@
+path: D:\git_projects\ML-projects\Automatic-Number-Plate-Recognition\anpr-pt2-video\license_plate_detection_model\data
+train: images\train  # train images (relative to 'path')
+val: images\val  # val images (relative to 'path')
+
+# Classes
+names:
+  0: license plate
