@@ -12,6 +12,6 @@ detailed exploratory data analysis, machine learning and the creation of a model
 direct and indirect factors. The notebook contains a exploratory analysis, the use of machine learning methods and time series theory to predict future sales figures.
 * **Sentiment analysis** — There is more than one way to explore the sentiment of a message. This project presents five different methods to accomplish this task. It 
 includes the use of the NLTK library, Text Blob, as well as HuggingFace BERT and RoBERTa models.
-* **Automatic License Plate Recognition** is a technology that uses optical character recognition in images to read vehicle registration plates to create vehicle location 
+* **Automatic Number Plate Recognition** is a technology that uses optical character recognition in images to read vehicle registration plates to create vehicle location 
 data. There are two versions implemented in this project: a lightweight one (in the form of an ```ipynb``` file) and a full-fledged one that reads the license plate from the 
 video and creates a video displaying the recognized license plate.
