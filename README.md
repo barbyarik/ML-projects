@@ -12,8 +12,10 @@ detailed exploratory data analysis, machine learning and the creation of a model
 direct and indirect factors. The notebook contains a exploratory analysis, the use of machine learning methods and time series theory to predict future sales figures.
 * **Sentiment analysis** — There is more than one way to explore the sentiment of a message. This project presents five different methods to accomplish this task. It 
 includes the use of the ```NLTK``` library, ```Text Blob```, as well as ```HuggingFace``` ```BERT``` and ```RoBERTa``` models.
-* **Automatic Number Plate Recognition** is a technology that uses optical character recognition in images to read vehicle registration plates to create vehicle location 
+* :sparkles: **Automatic Number Plate Recognition** is a technology that uses optical character recognition in images to read vehicle registration plates to create vehicle location 
 data. There are two versions implemented in this project: a lightweight one (in the form of an ```ipynb``` file) and a full-fledged one that reads the license plate from the 
 video and creates a video displaying the recognized license plate.
-* **Mayakovsky Network** — a project that performs the task of text generation. In this case, it generates "poems" in the style of 
+* **Mayakovsky Network** — A project that performs the task of text generation. In this case, it generates "poems" in the style of 
 Vladimir Mayakovsky, recurrent neural network and ```GPT-Neo``` model from ```HuggingFace``` are used to complete the task.
+* **Bicep Curl Counter** — This app uses computer vision to count bicep curls in real time. The ```Mediapipe``` library analyzes a person's 
+posture, and ```Streamlit``` and ```WebRTC``` provide video streaming from a webcam.
