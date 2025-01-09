@@ -19,3 +19,6 @@ video and creates a video displaying the recognized license plate.
 Vladimir Mayakovsky, recurrent neural network and ```GPT-Neo``` model from ```HuggingFace``` are used to complete the task.
 * **Bicep Curl Counter** — This app uses computer vision to count bicep curls in real time. The ```Mediapipe``` library analyzes a person's 
 posture, and ```Streamlit``` and ```WebRTC``` provide video streaming from a webcam.
+* **Comment Toxicity** — A project dedicated to recognizing different types of toxicity in user messages. It contains two models, a Naive 
+Bayes Classifier (from ```scikit-learn```) and a Recurrent Neural Network (based on ```Tensorflow```), to perform this task. It also has an interface in 
+the form of a ```Gradio``` application.
