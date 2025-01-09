@@ -26,7 +26,8 @@ $50.000$ первых строк.
 для слов и последовательностей. Сам он, как и функции векторизации и получения метрик были 
 заимствованы из библиотеки ```scikit-learn```. Рассмотрим результат на примере реплики одного из персонажей 
 научно-фантастического анимационного сериала «Рик и Морти».
-* Для входной последовательности ```"Morty, I Need You to Burp SHUT the Hell Up. So shut up or I'll kill you, you little shit!"``` 
+
+Для входной последовательности ```"Morty, I Need You to Burp SHUT the Hell Up. So shut up or I'll kill you, you little shit!"``` 
 имеем
 
     Prediction for new comment: [('toxic',)]
@@ -43,8 +44,10 @@ $50.000$ первых строк.
 В качестве функции активации 
 использовалась ```BinaryCrossentropy```. Модель прошла обучение в $20$ эпох, что заняло порядка $6$ часов. 
 Рассмотрим результат на примере реплики одного из персонажей криминальной драмы «Во все тяжкие».
-* Для входной последовательности ```"Possum. Big, freaky, lookin’ bitch. Since when did they change it to opossum?"``` 
+
+Для входной последовательности ```"Possum. Big, freaky, lookin’ bitch. Since when did they change it to opossum?"``` 
 имеем
+
     toxic: True
     severe_toxic: False
     obscene: True
